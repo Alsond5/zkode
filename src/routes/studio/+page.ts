@@ -42,6 +42,7 @@ export const load: PageLoad = () => {
     }
 
     const map = jsonToMap(JSON.stringify(initialRoot));
+    console.log(map)
 
 	return {
         "!root": map
