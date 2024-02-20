@@ -24,6 +24,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"monaco-editor": "^0.46.0"
+		"monaco-editor": "^0.46.0",
+		"o1js": "^0.16.2"
 	}
 }
